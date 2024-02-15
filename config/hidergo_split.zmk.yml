@@ -6,4 +6,4 @@ arch: arm
 outputs:
   - usb
   - ble
-url: https://github.com/jhanninen/zmk
+url: https://github.com/osmakari/zmk
