@@ -18,4 +18,5 @@
 #
 ---
 include:
-  - board: hidergo_split
+  - board: hidergo_split_right
+  - board: hidergo_split_left
