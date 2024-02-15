@@ -18,5 +18,4 @@
 #
 ---
 include:
-  - board: adafruit_kb2040
-    shield: two_percent_milk
+  - board: hidergo_split
